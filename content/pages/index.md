@@ -168,7 +168,7 @@ sections:
 
 
           **Ilda,** *tu tia preciosa.*
-        image: /images/mama.jpg
+        image: /images/mama-e96b8343.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
