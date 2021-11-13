@@ -63,7 +63,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: ¡Festejemos en grande!
-    subtitle: No te rindas nunca
+    subtitle: Que dice la gente que te ama
     features:
       - title: Felicidades!
         subtitle: Te deseamos lo mejor mamá
