@@ -158,7 +158,7 @@ sections:
 
 
           **Roberto,** tu tio precioso.
-        image: images/eleanor-carr.png
+        image: /images/papa.jpg
         image_position: left
         image_width: twenty-five
       - content: >
