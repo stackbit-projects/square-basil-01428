@@ -16,11 +16,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
-            },
-            {
-                "label": "Gente que te quiere",
-                "url": "/contact",
-                "style": "link"
             }
         ],
         "has_secondary_nav": false
