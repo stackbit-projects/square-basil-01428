@@ -145,7 +145,7 @@ sections:
 
 
           **Ariel,** tu papito.
-        image: images/miles-tone.png
+        image: /images/ariel.jpg
         image_position: left
         image_width: twenty-five
       - content: >
