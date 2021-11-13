@@ -63,7 +63,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: My services
-    subtitle: What I do
+    subtitle: No te rindas nunca
     features:
       - title: Felicidades!
         subtitle: Te deseamos lo mejor mamá
