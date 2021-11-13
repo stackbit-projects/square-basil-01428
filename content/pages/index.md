@@ -30,7 +30,7 @@ sections:
       - image: /images/ciro bombero_preview_rev_1.png
         image_alt: Logo 1
         image_align: center
-      - image: /images/michael.jpg
+      - image: /images/michael-e08b7699.jpg
         image_alt: Logo 2
         image_align: center
       - image: /images/nena-845b58cf.jpg
