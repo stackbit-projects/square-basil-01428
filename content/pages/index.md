@@ -158,7 +158,7 @@ sections:
 
 
           **Roberto,** tu tio precioso.
-        image: /images/papa.jpg
+        image: /images/papa-b7234b82.jpg
         image_position: left
         image_width: twenty-five
       - content: >
