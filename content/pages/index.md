@@ -50,8 +50,7 @@ sections:
       - image: images/logo-8.svg
         image_alt: Logo 8
         image_align: center
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           *
         content_align: left
