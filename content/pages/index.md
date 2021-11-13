@@ -27,7 +27,7 @@ sections:
     subtitle: 13/11/2021
     align: center
     grid_items:
-      - image: /images/ciro bombero-4ce5b960.jpg
+      - image: /images/ciro bombero_preview_rev_1.png
         image_alt: Logo 1
         image_align: center
       - image: /images/michael.jpg
