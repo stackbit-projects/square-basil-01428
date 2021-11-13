@@ -135,7 +135,7 @@ sections:
 
 
           **Luisa, tu mamita.** 
-        image: images/hanson-deck.png
+        image: /images/luisa.jpg
         image_position: left
         image_width: twenty-five
       - content: >
