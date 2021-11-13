@@ -143,7 +143,7 @@ sections:
           cumpleaños!
 
 
-          **Ariel,** tu papito.
+          **Ariel,** *tu papito*.
         image: /images/ariel.jpg
         image_position: left
         image_width: twenty-five
