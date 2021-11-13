@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: ¡Hola! ¡Felíz cumpleaños Aye!
     subtitle: >-
-      ¡Que tengas un lindo cumple y que sigas cumpliendo muchos más! A comer
-      mucha torta!!!! Wiiiiiii
+      Querida prima, ha pasado otro año y estoy feliz de poder pasar este
+      cumpleaños contigo. ¡Que tengas un lindo cumple y que sigas cumpliendo
+      muchos más! A comer mucha torta!!!! Wiiiiiii
     actions:
       - label: Contact Me
         url: /contact
