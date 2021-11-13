@@ -148,13 +148,16 @@ sections:
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: >
+          ¿Como puedo felicitarle el cumpleaños a la persona mas fuerte y
+          predispuesta a seguir adelante?
 
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          ¡Me lo haz puesto complicado, princesa! Asique sin mas, felicidades.
+          Te quiero mucho sobrina.
+
+
+          **Roberto,** tu tio precioso.
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
