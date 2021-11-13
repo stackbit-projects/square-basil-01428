@@ -123,7 +123,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Felicitaciones
     subtitle: Que dicen la gente que te quiere
     grid_items:
       - content: >
