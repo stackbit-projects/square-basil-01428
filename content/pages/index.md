@@ -156,7 +156,7 @@ sections:
           Te quiero mucho sobrina.
 
 
-          **Roberto,** tu tio precioso.
+          **Roberto,*** tu tio precioso.*
         image: /images/papa-b7234b82.jpg
         image_position: left
         image_width: twenty-five
