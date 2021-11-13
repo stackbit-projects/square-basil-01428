@@ -133,7 +133,7 @@ sections:
           cumpleaños.
 
 
-          **Luisa, tu mamita.** 
+          **Luisa, ***tu mamita*.
         image: /images/luisa.jpg
         image_position: left
         image_width: twenty-five
