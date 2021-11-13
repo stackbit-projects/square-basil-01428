@@ -67,10 +67,13 @@ sections:
     features:
       - title: Felicidades!
         subtitle: Te deseamos lo mejor mamá
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          No importa cuantos cumpleaños pasen. Siempre seras nuestra mamita
+          preciosa y el tiempo nunca te va a afectar. Sos la madre que nos
+          motiva a seguir adelante, porque sabemos y observamos todos tus
+          esfuerzos que haces para que nuestra vida sea aun mejor. Nunca te
+          rindas Aye, podes seguir creciendo mucho mas como persona y aprender
+          mas para enseñarnos a nosotras a mejorar.
         actions:
           - label: See Writing Samples
             url: /faq
