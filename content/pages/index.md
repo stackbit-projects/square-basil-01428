@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: ¡Hola! ¡Felíz cumpleaños Aye!
+    title: ¡Hola! ¡Feliz cumpleaños Aye!
     subtitle: >-
       Querida prima, ha pasado otro año y estoy feliz de poder pasar este
       cumpleaños contigo. Un motivo de alegria infinita, me gusta que me des la
