@@ -66,7 +66,7 @@ sections:
     subtitle: What I do
     features:
       - title: Felicidades!
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Te deseamos lo mejor mamá
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
