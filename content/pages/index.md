@@ -124,7 +124,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Testimonials
-    subtitle: What My Clients Say
+    subtitle: Que dicen la gente que te quiere
     grid_items:
       - content: >
           Por ti seria capaz de dar mi vida porque lo eres todo para mi, desde
