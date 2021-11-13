@@ -127,12 +127,14 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          Por ti seria capaz de dar mi vida porque lo eres todo para mi, desde
+          que naciste una parte de mi corazón te pertenece y solo puedo ser
+          feliz cuando tu eres feliz, que la pases muy bonito hija, feliz
+          cumpleaños.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Luisa, tu mamita.** 
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
