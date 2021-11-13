@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: ¡Hola! ¡Feliz cumpleaños Aye!
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      ¡Que tengas un lindo cumple y que tengas muchos más! A comer mucha
+      torta!!!!
     actions:
       - label: Contact Me
         url: /contact
