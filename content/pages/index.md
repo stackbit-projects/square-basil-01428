@@ -168,7 +168,7 @@ sections:
 
 
           **Ilda,** *tu tia preciosa.*
-        image: images/gordon-norman.png
+        image: /images/mama.jpg
         image_position: left
         image_width: twenty-five
     grid_cols: two
