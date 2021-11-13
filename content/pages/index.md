@@ -36,7 +36,7 @@ sections:
       - image: /images/nena-845b58cf.jpg
         image_alt: Logo 3
         image_align: center
-      - image: images/logo-4.svg
+      - image: /images/yo y amam.jpg
         image_alt: Logo 4
         image_align: center
       - image: /images/nenass_preview_rev_1.png
