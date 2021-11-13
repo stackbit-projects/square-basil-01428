@@ -33,7 +33,7 @@ sections:
       - image: /images/michael.jpg
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/nena.jpg
         image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
