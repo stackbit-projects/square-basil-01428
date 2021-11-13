@@ -30,7 +30,7 @@ sections:
       - image: /images/ciro bombero.jpg
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: /images/michael.jpg
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
