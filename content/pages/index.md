@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: ¡Hola! ¡Feliz cumpleaños Aye!
+    title: ¡Hola! ¡Felíz cumpleaños Aye!
     subtitle: >-
       ¡Que tengas un lindo cumple y que tengas muchos más! A comer mucha
       torta!!!!
