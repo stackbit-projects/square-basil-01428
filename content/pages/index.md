@@ -138,12 +138,13 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          Responsable, hermosa, inteligente, valiente y la mejor parte de mi
+          vida, asi eres tu mi hijita mayor, y hoy te deseo lo mejor. ¡Feliz
+          cumpleaños!
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Ariel,** tu papito.
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
