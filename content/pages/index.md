@@ -10,10 +10,7 @@ sections:
       mejores deceos para ti. Acordate, nunca te rindas y que todos los sueños
       que tengas se hagan realidad ¡Que tengas un lindo cumple y que sigas
       cumpliendo muchos más! A comer mucha torta!!!! Wiiiiiii
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image: /images/o4.png
     image_alt: A smiling woman
     media_position: right
