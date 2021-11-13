@@ -5,8 +5,11 @@ sections:
     title: ¡Hola! ¡Felíz cumpleaños Aye!
     subtitle: >-
       Querida prima, ha pasado otro año y estoy feliz de poder pasar este
-      cumpleaños contigo. ¡Que tengas un lindo cumple y que sigas cumpliendo
-      muchos más! A comer mucha torta!!!! Wiiiiiii
+      cumpleaños contigo. Un motivo de alegria infinita, me gusta que me des la
+      oportunidad de verte crecer, de verte sonreir y ser feliz. Te brindo mis
+      mejores deceos para ti. Acordate, nunca te rindas y que todos los sueños
+      que tengas se hagan realidad ¡Que tengas un lindo cumple y que sigas
+      cumpliendo muchos más! A comer mucha torta!!!! Wiiiiiii
     actions:
       - label: Contact Me
         url: /contact
