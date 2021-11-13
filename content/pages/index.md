@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: ¡Hola! ¡Felíz cumpleaños Aye!
     subtitle: >-
-      ¡Que tengas un lindo cumple y que tengas muchos más! A comer mucha
-      torta!!!!
+      ¡Que tengas un lindo cumple y que sigas cumpliendo muchos más! A comer
+      mucha torta!!!! Wiiiiiii
     actions:
       - label: Contact Me
         url: /contact
