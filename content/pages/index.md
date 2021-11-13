@@ -42,7 +42,7 @@ sections:
       - image: /images/nenass_preview_rev_1.png
         image_alt: Logo 5
         image_align: center
-      - image: /images/german_preview_rev_1.png
+      - image: /images/german_preview_rev_1-60f681c4.png
         image_alt: Logo 6
         image_align: center
       - image: images/logo-7.svg
