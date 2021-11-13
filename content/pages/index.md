@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: Hoy es tu día Aye para festejar en grande!!!
     subtitle: 13/11/2021
     align: center
     grid_items:
