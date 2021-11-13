@@ -75,13 +75,7 @@ sections:
           esfuerzos que haces para que nuestra vida sea aun mejor. Nunca te
           rindas Aye, podes seguir creciendo mucho mas como persona y aprender
           mas para enseñarnos a nosotras a mejorar.
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/nenass_preview_rev_1.png
         image_alt: Feature 1 illustration
         media_position: right
